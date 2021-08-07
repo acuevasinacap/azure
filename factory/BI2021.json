@@ -1,0 +1,9 @@
+{
+	"name": "BI2021",
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d753666-4d88-49d4-82c0-e45e487cd328",
+		"tenantId": "38a1e0a1-b6b1-42e9-b3a9-597626670b17"
+	}
+}
